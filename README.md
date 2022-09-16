@@ -6,7 +6,7 @@ Applied Mathematics Major at UC Berkeley
 
 * 🌍  I'm based in Berkeley, CA
 * ✉️  You can contact me at [samuel.j.rho@gmail.com](mailto:samuel.j.rho@gmail.com)
-* 🧠  I'm learning Data Structures
+* 🧠  I'm learning Data Structures and Probability
 
 <a href="https://www.github.com/SJRho" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SJRho?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
