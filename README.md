@@ -1,7 +1,7 @@
 Samuel Rho
 ==================================================================================================================================
 
-Aspiring Actuary | Applied Mathematics Major at UC Berkeley
+Applied Mathematics Major at UC Berkeley
 ----------------------------------------
 
 * 🌍  Currently based in Berkeley, CA
