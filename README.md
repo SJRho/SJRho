@@ -1,8 +1,8 @@
 <h1>Samuel Rho</h1>
 
-* Applied Mathematics Major at UC Berkeley
+* Applied mathematics graduate from UC Berkeley
 * Currently based in Berkeley, CA
-* Contact me at [samuel.j.rho@gmail.com](mailto:samuel.j.rho@gmail.com)
+* Email: [samuel.j.rho@gmail.com](mailto:samuel.j.rho@gmail.com)
 
 <br>
 <h3>Fun Projects</h3>
